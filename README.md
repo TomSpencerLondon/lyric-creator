@@ -1,2 +1,2 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+An app for creating lyrics on the fly using GraphQL and React
